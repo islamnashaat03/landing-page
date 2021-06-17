@@ -1,0 +1,10 @@
+<svg id="icon_maps_track_24px" data-name="icon/maps/track_24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="home" d="M8.992,28.485h0L0,28.484V9.837L8.708,1.129a3.853,3.853,0,0,1,5.45,0L23.125,10.1V28.482l-8.994,0V20.776a2.57,2.57,0,0,0-5.139,0v7.709Zm2.57-12.848A5.145,5.145,0,0,1,16.7,20.776v5.138h3.854V11.159L12.342,2.945a1.283,1.283,0,0,0-1.816,0L2.57,10.9V25.914H6.424V20.776A5.144,5.144,0,0,1,11.562,15.637Z" transform="translate(0 0)" fill="#2d2d2d"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(6.938 4.258)">
+    <path id="home-2" data-name="home" d="M8.992,28.485h0L0,28.484V9.837L8.708,1.129a3.853,3.853,0,0,1,5.45,0L23.125,10.1V28.482l-8.994,0V20.776a2.57,2.57,0,0,0-5.139,0v7.709Zm2.57-12.848A5.145,5.145,0,0,1,16.7,20.776v5.138h3.854V11.159L12.342,2.945a1.283,1.283,0,0,0-1.816,0L2.57,10.9V25.914H6.424V20.776A5.144,5.144,0,0,1,11.562,15.637Z" transform="translate(0 0)" fill="#fff"/>
+  </g>
+</svg>

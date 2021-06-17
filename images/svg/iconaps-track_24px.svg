@@ -1,0 +1,10 @@
+<svg id="icon_maps_track_24px" data-name="icon/maps/track_24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="album" d="M3.854,25.7A3.855,3.855,0,0,1,0,21.841V3.854A3.855,3.855,0,0,1,3.854,0H21.841A3.855,3.855,0,0,1,25.7,3.854V21.841A3.855,3.855,0,0,1,21.841,25.7Z" transform="translate(0 0)" fill="#2d2d2d"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(5.653 5.653)">
+    <path id="album-2" data-name="album" d="M3.854,25.7A3.855,3.855,0,0,1,0,21.841V3.854A3.855,3.855,0,0,1,3.854,0H21.841A3.855,3.855,0,0,1,25.7,3.854V21.841A3.855,3.855,0,0,1,21.841,25.7Z" transform="translate(0 0)" fill="#fff"/>
+  </g>
+</svg>
